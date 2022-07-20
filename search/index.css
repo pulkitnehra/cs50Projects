@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+}
+
+
+.link1{
+    text-align: right;
+}
+
+.link2{
+    text-align: right;
+}
+
+.searchBar{
+    border-radius: 15px;
+    width: 50%;
+    height: 30px;
+    border-color: blanchedalmond
+}
+.searchBtn{
+ border-radius: 3px;
+ border-color: white;
+ height: 25px;
+ color: grey;
+}
+
+
+
+
+
